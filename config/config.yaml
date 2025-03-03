@@ -1,0 +1,41 @@
+## 参数配置
+appId: ""
+secret: ""
+bizId: ""
+
+## 这里需要一张真实身份证号, 用户测试
+realCard: ""
+
+## 测试用例
+cases:
+  case01:
+    prefix: ""
+    pass: true
+  
+  case02:
+    prefix: ""
+    pass: true
+
+  case03:
+    prefix: ""
+    pass: true
+
+  case04:
+    prefix: ""
+    pass: true
+
+  case05:
+    prefix: ""
+    pass: true
+
+  case06:
+    prefix: ""
+    pass: true
+
+  case07:
+    prefix: ""
+    pass: true
+
+  case08:
+    prefix: ""
+    pass: true
